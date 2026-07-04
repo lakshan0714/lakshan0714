@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lakshan Ravichandren</h1>
-<h3 align="center">AI Developer | Generative AI | AI Agents | Machine Learning | Full Stack Developer</h3>
+<h1 align="center">I'm Lakshan Ravichandren</h1>
+<h3 align="center">AI Developer | Generative AI | AI Agents | AI Researcher | Machine Learning | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshan-ravichandren-37260823a">
@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-- 🤖 Building AI Agents and Generative AI Applications
-- 🧠 Passionate about Machine Learning & Deep Learning
-- 🌐 Full Stack Developer with modern web technologies
-- ☁️ Experienced with Cloud-Native Architectures
-- 📚 Always learning and exploring new technologies
-- 💡 Interested in Distributed Systems, AI Infrastructure, and Scalable Applications
+-  Building AI Agents and Generative AI Applications
+-  Passionate about Machine Learning & Deep Learning
+-  Full Stack Developer with modern web technologies
+-  Experienced with Cloud-Native Architectures
+-  Always learning and exploring new technologies
+-  Interested in AI Agents,Distributed Systems, AI Infrastructure, and Scalable Applications
 
 ---
 
@@ -45,20 +45,6 @@
 </p>
 
 ---
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=lakshan0714&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lakshan0714&theme=tokyonight&row=1&column=7" />
-</p>
 
 ---
 
