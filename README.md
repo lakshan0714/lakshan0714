@@ -35,16 +35,7 @@
 <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,pytorch,tensorflow,docker,kubernetes,aws,nodejs,mongodb,postgresql,git,linux" />
 </p>
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshan0714&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan0714&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ---
 
